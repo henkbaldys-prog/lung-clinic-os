@@ -1,0 +1,11 @@
+streamlit
+openai
+supabase
+reportlab
+python-docx
+arabic-reshaper
+python-bidi
+imageio-ffmpeg
+soundfile
+av
+streamlit-webrtc
